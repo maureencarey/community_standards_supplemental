@@ -18,15 +18,15 @@ Modifications have been consistent with the BiGG namespace (DOI: 10.1093/nar/gkv
 
 ## software
 
-no provided by the original publication
+not provided by the original publication
 
-### round 1: manual curation published in 
+### round 1: manual curation published in DOI: 10.1186/s12864-017-3905-1
 
 See code here: https://github.com/gulermalaria/iPfal17/model_curation_careyBMCG.m
 
 This code uses MATLAB R2013b, COBRA Toolbox 2015, and Gurobi 5.
 
-### round 2: manual curation published in 
+### round 2: manual curation published in DOI: 10.1186/s12859-019-2756-y
 
 Original code not publically available; modifications were documented in the manuscript's Additional File 1:Table S1 and recreated in round 3 curation.
 
