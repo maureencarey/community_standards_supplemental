@@ -7,8 +7,8 @@
           <bqbiol:is>
             <rdf:Bag>
               <rdf:li rdf:resource="https://identifiers.org/taxonomy/36329"/>
-              <rdf:li rdf:resource="https://identifiers.org/genedb/Plasmodium_falciparum_3D7"/>
               <rdf:li rdf:resource="https://identifiers.org/insdc.gca/GCA_000002765.2"/>
+              <rdf:li rdf:resource="https://identifiers.org/genedb/Plasmodium_falciparum_3D7"/>
             </rdf:Bag>
           </bqbiol:is>
         </rdf:Description>
@@ -23,6 +23,29 @@
         </listOfUnits>
       </unitDefinition>
     </listOfUnitDefinitions>
+    <listOfCompartments>
+      <compartment id="c" constant="true"/>
+    </listOfCompartments>
+    <listOfSpecies>
+      <species metaid="meta_M_1ddecg3p_c" id="M_1ddecg3p_c" name="1-dodecanoyl-sn-glycerol 3-phosphate" compartment="c" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false" fbc:charge="-2" fbc:chemicalFormula="C15H29O7P">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_M_1ddecg3p_c">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/inchi/InChI=1S/C15H31O7P/c1-2-3-4-5-6-7-8-9-10-11-15(17)21-12-14(16)13-22-23(18,19)20/h14,16H,2-13H2,1H3,(H2,18,19,20)/p-2/t14-/m1/s1"/>
+                  <rdf:li rdf:resource="https://identifiers.org/bigg.metabolite/1ddecg3p"/>
+                  <rdf:li rdf:resource="https://identifiers.org/chebi/CHEBI:62840"/>
+                  <rdf:li rdf:resource="https://identifiers.org/hmdb/HMDB62319"/>
+                  <rdf:li rdf:resource="https://identifiers.org/seed.compound/cpd15325"/>
+                  <rdf:li rdf:resource="https://identifiers.org/metacyc.compound/CPD0-2200"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+    </listOfSpecies>
     <listOfParameters>
       <parameter sboTerm="SBO:0000626" id="cobra_default_lb" value="-1000" constant="true"/>
       <parameter sboTerm="SBO:0000626" id="cobra_default_ub" value="1000" constant="true"/>
