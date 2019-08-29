@@ -1,6 +1,12 @@
 # README for generating iPfal19
+# README for generating iPfal19
 
-## summary 
+## model name and id
+
+model.name = iPfal19
+model.id = iPfal19_v1
+
+## summary
 
 This model is the third iteration of the *Plasmodium falciparum* 3D7 genome-scale metabolic network reconstruction, curated by Maureen Carey and collaborators. The original reconstruction (DOI: 10.1038/msb.2010.60) was generated using a custom pipeline. All documentation here is in regard to curation conducted since the original publication.
 
