@@ -15,7 +15,7 @@ blood-stage *Plasmodium falciparum* (malaria) parasite.
 
 ## model_README/README.md
 
-This README file docuemnts the reconstruction and curation history of *iPfal19*.
+This README file documents the reconstruction and curation history of *iPfal19*.
 
 ## Contact Information
 
