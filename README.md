@@ -17,6 +17,12 @@ blood-stage *Plasmodium falciparum* (malaria) parasite.
 
 This README file documents the reconstruction and curation history of *iPfal19*.
 
+## Reconstruction Tutorials
+
+Two tutorials (written in python or MATLAB using CobraPy or CobraToolbox, 
+respectively) demonstrate how to access or modify standardized information 
+in a reconstruction.
+
 ## Contact Information
 
 Contact Maureen Carey at mac9jc at virginia dot edu with any questions.
