@@ -1,5 +1,4 @@
 # README for generating iPfal19
-# README for generating iPfal19
 
 ## model name and id
 
@@ -28,7 +27,7 @@ not provided by the original publication
 
 ### round 1: manual curation published in DOI: 10.1186/s12864-017-3905-1
 
-See code here: https://github.com/gulermalaria/iPfal17/model_curation_careyBMCG.m
+See code here: https://github.com/gulermalaria/iPfal17/blob/master/model_curation_careyBMCG.m
 
 This code uses MATLAB R2013b, COBRA Toolbox 2015, and Gurobi 5.
 
@@ -38,6 +37,6 @@ Original code not publically available; modifications were documented in the man
 
 ### round 3: manual curation
 
-See code here: https://github.com/maureencarey/paradigm/blob/master/model_refinement/step_2_curate_iPfal17.py
+See code here: https://github.com/maureencarey/curation_r3/blob/master/step_2_curate_iPfal17.py
 
 This code uses python 3.6.6 and cobrapy 0.14.1.
